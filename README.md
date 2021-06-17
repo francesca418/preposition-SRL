@@ -18,8 +18,8 @@ git clone <this repository's link>
 cd preposition-SRL
 ```
 
-## Investigate the Streusle 4.0 Data
-The pre-processed, annotated Streusle data is included in this repository, since it is so small. You can also access the original Streusle data at [this link](https://github.com/nert-nlp/streusle).
+## Investigate the STREUSLE 4.0 Data
+The pre-processed, annotated STREUSLE data is included in this repository, since it is so small. You can also access the original STREUSLE data at [this link](https://github.com/nert-nlp/streusle).
 
 ## To Train the SRL Model
 Set up paths and files referenced in ```preposition-srl.jsonnet```. Set the ```$SRL_TRAIN_DATA_PATH```, ```$SRL_VALIDATION_DATA_PATH```, and ```$SRL_TEST_DATA_PATH```.
@@ -29,18 +29,18 @@ Navigate back to the outer ```preposition-srl``` directory.
 
 Train the model:
 ```
-allennlp train srl-configs/preposition-srl-test.jsonnet -s prep-srl-bert-test -f --include-package linear09
+allennlp train configs/preposition-srl.jsonnet -s prep-srl-test -f --include-package prep_srl
 ```
 
 ## To Evaluate the SRL Model
 ```
-allennlp evaluate prep-srl-bert-test/model.tar.gz $SRL_TEST_DATA_PATH --output-file prep-srl-bert-test/evaluation.txt --include-package linear09
+allennlp evaluate prep-srl-test/model.tar.gz $SRL_TEST_DATA_PATH --output-file prep-srl-test/evaluation.txt --include-package prep_srl
 ```
 
 ## To Predict SRL -- TODO: UPDATE
 Create input text file with JSON formatting: ```{"sentence": "This is a sentence."}``` for each sentence you would like predicted.
 ```
-allennlp predict prep-srl-bert-test/model.tar.gz input.txt --output-file predicted_output.txt --predictor "preposition-srl" --include-package linear09
+allennlp predict prep-srl-test/model.tar.gz input.txt --output-file predicted_output.txt --predictor "preposition-srl" --include-package prep_srl
 ```
 
 ## Supersense Models
