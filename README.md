@@ -34,7 +34,7 @@ allennlp train configs/preposition-srl.jsonnet -s prep-srl-test -f --include-pac
 allennlp evaluate prep-srl-test/model.tar.gz $SRL_TEST_DATA_PATH --output-file prep-srl-test/evaluation.txt --include-package prep_srl
 ```
 
-## To Predict SRL -- TODO: UPDATE
+## To Predict SRL
 Create input text file with JSON formatting: ```{"sentence": "This is a sentence."}``` for each sentence you would like predicted.
 ```
 allennlp predict prep-srl-test/model.tar.gz input.txt --output-file predicted_output.txt --predictor "preposition-srl" --include-package prep_srl
