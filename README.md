@@ -1,6 +1,9 @@
 # preposition-SRL
 Using this repository, you will be able to perform BERT-based preposition SRL, training on the Streusle 4.0 dataset, which has been both manually annotated for arguments, as well as annotated using a dependency parser.
 
+# Relevant Papers
+TODO -- add relevant papers
+
 # Set Up Environment
 Create the environment and install necessary packages.
 ```
