@@ -23,7 +23,7 @@ The pre-processed, annotated Streusle data is included in this repository, since
 
 # To Train the SRL Model
 Set up paths and files referenced in ```preposition-srl.jsonnet```. Set the ```$SRL_TRAIN_DATA_PATH```, ```$SRL_VALIDATION_DATA_PATH```, and ```$SRL_TEST_DATA_PATH```.
-Run ```. ./set_filepaths.sh``` # Feel free to update any of the paths to your needs.
+Run ```. ./set_filepaths.sh``` Feel free to update any of the paths to your needs.
 
 Navigate back to the outer ```preposition-srl``` directory.
 
