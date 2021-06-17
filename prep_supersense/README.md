@@ -1,0 +1,1 @@
+This model predicts both role and function supersenses jointly.
