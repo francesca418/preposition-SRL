@@ -30,7 +30,7 @@ def _convert_tags_to_wordpiece_tags(new_tags: List[int], end_offsets: List[int])
     # Parameters
 
     new_tags: `List[str]`
-        The BIO formatted tags to convert to BIO tags for wordpieces. 
+        The BIO formatted tags to convert to BIO tags for wordpieces.
         Corresponds to hyphen-separated sentence, not original sentence.
     end_offsets: `List[int]`
         The wordpiece offsets.
@@ -64,7 +64,7 @@ def _convert_prep_indices_to_wordpiece_indices(prep_indices: List[int], end_offs
     Converts binary prep indicators to account for a wordpiece tokenizer.
 
     Parameters:
-    
+
     prep_indices: `List[int]`
         The binary prep indicators, 0 for not the nom, 1 for the nom.
     end_offsets: `List[int]`
@@ -98,11 +98,11 @@ class SrlReader(DatasetReader):
   prep_indicator: `SequenceLabelField`
     A sequence of binary indicators for whether the word(s) is the preposition predicate for this frame.
   tags: `SequenceLabelField`
-    A sequence of argument tags for the given preposition in a BIO format. 
+    A sequence of argument tags for the given preposition in a BIO format.
   supersense1: `LabelField`
     A label for the first supersense expressed by the predicate.
   supersense2: `LabelField`
-    A label for the second supersense expressed by the predicate. 
+    A label for the second supersense expressed by the predicate.
 
   # Parameters
 
@@ -110,7 +110,7 @@ class SrlReader(DatasetReader):
     We use this for both the premise and hypothesis.
     Default is `{"tokens": SingleIdTokenIndexer()}`.
   bert_model_name: `Optional[str]`, (default=None)
-    The BERT model to be wrapped. If you specify a bert_model here, the BERT model will be used 
+    The BERT model to be wrapped. If you specify a bert_model here, the BERT model will be used
     throughout to expand tags and preposition indicator. If not, tokens will be indexed regularly
     with token_indexers.
 
@@ -124,8 +124,8 @@ class SrlReader(DatasetReader):
       self._token_indexers = token_indexers or {"tokens": SingleIdTokenIndexer()}
       if bert_model_name is not None:
           self.bert_tokenizer = BertTokenizer.from_pretrained(bert_model_name)
-          self.lowercase_input = "uncased" in bert_model_name 
-      else: 
+          self.lowercase_input = "uncased" in bert_model_name
+      else:
           self.bert_tokenizer = None
           self.lowercase_input = False
 
@@ -134,14 +134,14 @@ class SrlReader(DatasetReader):
             ) -> Tuple[List[str], List[int], List[int]]:
         """
         Convert a list of tokens to wordpiece tokens and offsets, as well as
-        adding BERT CLS and SEP tokens to the beginning and end of the 
+        adding BERT CLS and SEP tokens to the beginning and end of the
         sentence. The offsets will also point to sub-words inside hyphenated
-        tokens. 
+        tokens.
         For example:
         `stalemate` will be bert tokenized as ["stale", "##mate"].
         `quick-stalemate` will be bert tokenized as ["quick", "##-", "##sta", "##lem", "##ate"]
         We will want the tags to be at the finst granularity specified, like
-        [B-GOV, I-GOV, B-OBJ, I-OBJ, I-OBJ]. The offsets will 
+        [B-GOV, I-GOV, B-OBJ, I-OBJ, I-OBJ]. The offsets will
         correspond to the first word out of each hyphen chunk, even if the
         entire initial token is one argument. In this example, offsets would
         be [0, 2]
@@ -149,7 +149,7 @@ class SrlReader(DatasetReader):
         wordpieces: List[str]
             The BERT wordpieces from the words in the sentence.
         end_offsets: List[int]
-            Indices into wordpieces such that `[wordpieces[i] for i in end_offsets]` 
+            Indices into wordpieces such that `[wordpieces[i] for i in end_offsets]`
             results in the end wordpiece of each (separated) word chosen.
         start_offsets: List[int]
             Indices into wordpieces such that `[wordpieces[i] for i in start_offsets]`
@@ -172,7 +172,7 @@ class SrlReader(DatasetReader):
         wordpieces = ["[CLS]"] + word_piece_tokens + ["[SEP]"]
 
         return wordpieces, end_offsets, start_offsets
-  
+
   @overrides
   def _read(self, file_path: str):
     file_path = cached_path(file_path)
@@ -238,12 +238,12 @@ class SrlReader(DatasetReader):
     if all(x == 0 for x in prep_label):
       prep = None
       prep_index = None
-    else: 
+    else:
       prep_index = [i for i in range(len(prep_label)) if prep_label[i] == 1]
       prep = ""
       for p_idx in prep_index: # prep_index is indexed to words
         prep += tokens[p_idx].text
-      
+
     metadata_dict["words"] = [x.text for x in tokens]
     metadata_dict["preposition"] = prep
     metadata_dict["prep_index"] = prep_index
@@ -257,11 +257,8 @@ class SrlReader(DatasetReader):
         fields["tags"] = SequenceLabelField(tags, text_field)
       metadata_dict["gold_tags"] = tags
 
-    # this is left here since we might eventually want to add the functionality of incorporating senses into the prediction process
     #supersense1_label = LabelField()
     #supersense2_label = LabelField()
 
     fields["metadata"] = MetadataField(metadata_dict)
     return Instance(fields)
-
-  
