@@ -42,3 +42,9 @@ Create input text file with JSON formatting: ```{"sentence": "This is a sentence
 ```
 allennlp predict prep-srl-bert-test/model.tar.gz input.txt --output-file predicted_output.txt --predictor "preposition-srl" --include-package linear09
 ```
+
+## Supersense Models
+Train and evaluate preposition supersense models by following the above instructions, substituting in the appropriate data and models. (These models do not currently produce results that beat the best published results.)
+
+## Joint SRL & Supersense Models
+Train and evaluate preposition SRL and supersense models by following the above instructions, substituting in the appropriate data and models. (These models do not currently produce strong results.)
