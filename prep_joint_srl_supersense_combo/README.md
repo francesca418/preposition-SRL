@@ -1,0 +1,1 @@
+This model jointly predicts SRL and supersense, but the role and function supersense are combined into a single supersense tag
