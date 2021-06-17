@@ -1,0 +1,35 @@
+import json
+import os
+import sys
+
+trainFile = sys.argv[1]
+outFile = sys.argv[2]
+
+exclude_sents = ["wsj_1286.gold_conll_9.txt", "wsj_1495.gold_conll_5.txt", "wsj_0790.gold_conll_11.txt", "wsj_0633.gold_conll_66.txt", "wsj_1875.gold_conll_65.txt", "wsj_1190.gold_conll_27.txt", "wsj_1366.gold_conll_48.txt", "wsj_1695.gold_conll_23.txt", "wsj_1159.gold_conll_6.txt", "wsj_1147.gold_conll_34.txt", "wsj_2052.gold_conll_51.txt"]
+data = []
+
+with open(trainFile, "r") as f:
+    data = f.readlines()
+
+for line in data:
+    str_list = line.split()
+    separator_idx = str_list.index("|||")
+    sentence = str_list[1:separator_idx]
+    tags = str_list[separator_idx+3:]
+    if (str_list[0] in exclude_sents):
+        continue
+    elif ("B-PREP" not in tags):
+        continue
+    elif (len(sentence) > len(tags)):
+        line = line + " O "
+    elif (len(sentence)+1 == len(tags)):
+        del tags[0]
+        line = str_list[0] + " "
+        for word in sentence:
+            line = line + word + " "
+        line = line + "||| " + str_list[separator_idx + 1] + " " + str_list[separator_idx + 2] + " "
+        for tag in tags:
+            tag = tag.strip("\n")
+            line = line + tag + " "
+    with open(outFile, "a") as f:
+        f.write(line)
