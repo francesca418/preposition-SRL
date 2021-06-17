@@ -1,0 +1,297 @@
+reviews-290238-0001_0 Out of business ? ||| p.Characteristic p.Locus B-PREP I-PREP I-PREP O 
+reviews-145645-0002_1 can ever & never forget the training undergone here which made my life step onto the successful job without any hurdles . ||| p.Manner p.Manner O O O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-263909-0002_0 Bisconti wanted over $ 300 to fix my laptop and these guys fixed it for $ 90 ! ||| p.Cost p.Cost O O O O O O O O O O O O O O B-PREP O O O 
+reviews-224117-0001_1 Drove all the way over from the highway ... closed at 7 . ||| p.Time p.Time O O O O O O O O O O B-PREP O O 
+reviews-169610-0002_0 Mrs. Tolchin provided us with excellent service and came with a great deal of knowledge and professionalism ! ||| p.Theme p.Theme O O O O B-PREP O O O O O O O O O O O O O 
+reviews-216281-0003_0 Scheduled appointment for 8:30 Monday morning . ||| p.Time p.Path O O B-PREP O O O O 
+reviews-332068-0001_1 Would not recommend I Was in a fair amount of pain for several weeks . ||| p.QuantityItem p.Gestalt O O O O O O O O O B-PREP O O O O O 
+reviews-334928-0002_1 And from a place that specializes in high quality meat , too . ||| p.Theme p.Theme O O O O O O B-PREP O O O O O O 
+reviews-268952-0004_2 I would recommend Bayside Chiropractic to anyone who is in need of a regular adjustment or is suffering from a chronic condition . ||| p.Stimulus p.Locus O O O O O O O O O O O O O O O O O O B-PREP O O O O 
+reviews-307170-0002_0 Great Limos company int he DFW fort Worth Metro area . ||| p.Locus p.Locus O O O B-PREP O O O O O O O 
+reviews-118668-0003_0 Go in and you will not think you are in Chesapeake . ||| p.Locus p.Locus O O O O O O O O O B-PREP O O 
+reviews-042530-0002_1 I live in the neighborhood and this place is one of my favorites for a tasty , quick and inexpensive meal . ||| p.Whole p.Whole O O O O O O O O O O B-PREP O O O O O O O O O O O 
+reviews-107608-0001_0 excellence in glasgow ||| p.Locus p.Locus O B-PREP O 
+reviews-034995-0002_2 Also more often than not you end up with a healthy dose of nasty rude attitude from the employees ! ||| p.Originator p.Locus O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-252791-0002_0 I was very upset when I went to Mother Plucker , they had NO FEATHERS and the quality is TERRIBLE . ||| p.Locus p.Locus O O O O O O O B-PREP O O O O O O O O O O O O O 
+reviews-224117-0001_0 Drove all the way over from the highway ... closed at 7 . ||| p.Locus p.Locus O O O O O B-PREP O O O O O O O 
+reviews-169610-0002_1 Mrs. Tolchin provided us with excellent service and came with a great deal of knowledge and professionalism ! ||| p.Characteristic p.Characteristic O O O O O O O O O B-PREP O O O O O O O O 
+reviews-028996-0003_0 I own a property management firm and need a contractor with the credentials that Farrell Electric has . ||| p.Characteristic p.Characteristic O O O O O O O O O O B-PREP O O O O O O O 
+reviews-145645-0002_0 can ever & never forget the training undergone here which made my life step onto the successful job without any hurdles . ||| p.Locus p.Locus O O O O O O O O O O O O O O B-PREP O O O O O O O 
+reviews-089136-0002_0 Make sure to put OILY sauces on your food to make it moist ! ||| p.Locus p.Locus O O O O O O B-PREP O O O O O O O 
+reviews-042530-0002_0 I live in the neighborhood and this place is one of my favorites for a tasty , quick and inexpensive meal . ||| p.Locus p.Locus O O B-PREP O O O O O O O O O O O O O O O O O O O 
+reviews-047891-0001_0 Great job on my roof and the pricing was fair . ||| p.Theme p.Theme O O B-PREP O O O O O O O O 
+reviews-184290-0002_0 the bast cab in minneapolis ||| p.Locus p.Locus O O O B-PREP O 
+reviews-334928-0002_0 And from a place that specializes in high quality meat , too . ||| p.Originator p.Locus O B-PREP O O O O O O O O O O O 
+reviews-101864-0002_0 I have no complaints about the service I received . ||| p.Theme p.Theme O O O O B-PREP O O O O O 
+reviews-314880-0001_1 I am in love with the giant plate of nachos ! ||| p.Stimulus p.Theme O O O O B-PREP O O O O O O 
+reviews-214912-0003_0 They are like family . ||| p.ComparisonRef p.ComparisonRef O O B-PREP O O 
+reviews-025894-0003_1 One time we even left after sitting at the table for 20 minutes and not being greeted with a drink order . ||| p.Duration p.Duration O O O O O O O O O O B-PREP O O O O O O O O O O O 
+reviews-314880-0003_2 I get that careless teenager kind of treatment from some of their staff ... perhaps they should hire more serious adults to help serve / cook . ||| p.QuantityItem p.Whole O O O O O O O O O O B-PREP O O O O O O O O O O O O O O O O 
+reviews-103519-0003_0 Like I 'm legitimately concerned at this point ... lol ||| p.Time p.Time O O O O O B-PREP O O O O 
+reviews-341750-0004_0 I felt as if I was in an over priced Olive Garden . ||| p.Locus p.Locus O O O O O O B-PREP O O O O O O 
+reviews-048644-0002_0 From the outside Ichiban looks like it will be terrible . ||| p.Locus p.Locus B-PREP O O O O O O O O O O 
+reviews-059655-0001_0 the team at barton car wash was very friendly . ||| p.Org p.Locus O O B-PREP O O O O O O O 
+reviews-264993-0002_0 I schedule my weekly appointment here just to get a chance to lie comfortably on my tummy . ||| p.Locus p.Locus O O O O O O O O O O O O O O B-PREP O O O 
+reviews-186235-0002_0 i wish the other utilities i had to set up had people to work with like this .. ||| p.SocialRel p.Ancillary O O O O O O O O O O O O O O B-PREP O O O 
+reviews-217747-0003_0 We love everything about the fence . ||| p.Gestalt p.Theme O O O B-PREP O O O 
+reviews-165032-0001_0 Michael helped shoot the majority of my firm 's website and we could not have been happier . ||| p.QuantityItem p.Whole O O O O O B-PREP O O O O O O O O O O O O 
+reviews-299169-0002_0 Fried rice has NO flavor , it literally taste like water . ||| p.Manner p.ComparisonRef O O O O O O O O O B-PREP O O 
+reviews-232278-0001_0 You are the only one auto glass repair shop in the area I would count on . ||| p.Locus p.Locus O O O O O O O O O B-PREP O O O O O O O 
+reviews-210875-0002_0 Just wanted you to know that Eric came by as scheduled today and sprayed our house for scorpions . ||| p.Explanation p.Explanation O O O O O O O O O O O O O O O O B-PREP O O 
+reviews-118679-0001_0 I really want to like this place since I work right around the corner . ||| p.Locus p.Locus O O O O O O O O O O O B-PREP I-PREP I-PREP O 
+reviews-005760-0004_1 Expensive for the level of food and the quality of service . ||| p.Gestalt p.Gestalt O O O O B-PREP O O O O O O O 
+reviews-192399-0001_0 Kyle with Bullwark ||| p.Org p.Ancillary O B-PREP O 
+reviews-314938-0001_0 The best pilates on the Gold Coast ! ||| p.Locus p.Locus O O O B-PREP O O O O 
+reviews-329807-0001_0 Best Electrician in Florence ||| p.Locus p.Locus O O B-PREP O 
+reviews-178726-0003_0 I went to this urgent care center and was blown away with their service . ||| p.Locus p.Locus O O B-PREP O O O O O O O O O O O O 
+reviews-363482-0002_0 How do you run a cafe , with no refills on coffee - ? ||| p.Manner p.Manner O O O O O O O B-PREP O O O O O O 
+reviews-275595-0003_0 and hopefully you do not know the same people because he tells others about you payment status . ||| p.Theme p.Theme O O O O O O O O O O O O O B-PREP O O O O 
+reviews-296357-0001_0 Close to my house , this is the only reason I would go to this particular QT . ||| p.Locus p.Locus O B-PREP O O O O O O O O O O O O O O O O 
+reviews-374344-0002_0 Absoul is the greatest donair man on the planet . ||| p.Locus p.Locus O O O O O O B-PREP O O O 
+reviews-363428-0002_0 Fantastic couple of days . ||| p.QuantityItem p.QuantityItem O O B-PREP O O 
+reviews-186235-0002_1 i wish the other utilities i had to set up had people to work with like this .. ||| p.ComparisonRef p.ComparisonRef O O O O O O O O O O O O O O O B-PREP O O 
+reviews-025894-0003_0 One time we even left after sitting at the table for 20 minutes and not being greeted with a drink order . ||| p.Locus p.Locus O O O O O O O B-PREP O O O O O O O O O O O O O O 
+reviews-138249-0002_2 I have use them four times for fixing items from pushing out a dent in a bumper to fixing the fender on my beloved Miata . ||| p.Whole p.Locus O O O O O O O O O O O O O O O O O O O O O B-PREP O O O O 
+reviews-178726-0007_0 Thanks for the great care !!!! ||| p.Explanation p.Explanation O B-PREP O O O O 
+reviews-389298-0004_0 I highly recommend Garage Pros to my friends . ||| p.Recipient p.Locus O O O O O B-PREP O O O 
+reviews-335490-0002_0 Stayed here for 2 nights . ||| p.Duration p.Duration O O B-PREP O O O 
+reviews-199045-0002_0 remember to ask for extra vege ||| p.Theme p.Theme O O O B-PREP O O 
+reviews-256677-0005_0 No need to go to a grocer again . ||| p.Locus p.Locus O O O O B-PREP O O O O 
+reviews-314880-0001_0 I am in love with the giant plate of nachos ! ||| p.Characteristic p.Locus O O B-PREP I-PREP O O O O O O O 
+reviews-294978-0002_0 It 's a fine place , I 'm just a little mystified about the Michelin star . ||| p.Stimulus p.Theme O O O O O O O O O O O O B-PREP O O O O 
+reviews-178726-0003_1 I went to this urgent care center and was blown away with their service . ||| p.Stimulus p.Theme O O O O O O O O O O O B-PREP O O O 
+reviews-363482-0002_1 How do you run a cafe , with no refills on coffee - ? ||| p.Theme p.Theme O O O O O O O O O O B-PREP O O O 
+reviews-296357-0001_1 Close to my house , this is the only reason I would go to this particular QT . ||| p.Locus p.Locus O O O O O O O O O O O O O B-PREP O O O O 
+reviews-030395-0002_0 Sanctuary serves delicious , somewhat healthy food in a great restaurant / fast food style . ||| p.Locus p.Locus O O O O O O O B-PREP O O O O O O O O 
+reviews-005760-0004_0 Expensive for the level of food and the quality of service . ||| p.ComparisonRef p.ComparisonRef O B-PREP O O O O O O O O O O 
+reviews-088954-0001_1 A thoroughly comprehensive service ; excellent communication and best of they are transparent with their fee ( ie nothing is simply implied or assumed ) . ||| p.Theme p.Theme O O O O O O O O O O O O O B-PREP O O O O O O O O O O O O 
+reviews-325741-0003_2 They picked my car up in Yarmouth and towed to Bath for a great price . ||| p.Cost p.Cost O O O O O O O O O O O B-PREP O O O O 
+reviews-334928-0001_1 One of the better vegetarian sandwiches I 've had in Seattle . ||| p.Locus p.Locus O O O O O O O O O B-PREP O O 
+reviews-307170-0001_0 Best Limo Limousine service in all of Dallas ||| p.Locus p.Locus O O O O B-PREP O O O 
+reviews-024306-0003_0 I do n't recommend this place to anyone or even anything to eat . ||| p.Recipient p.Locus O O O O O O B-PREP O O O O O O O 
+reviews-223040-0001_0 I love this place lots of people to talk to and school is across the street ! ||| p.QuantityItem p.QuantityItem O O O O O B-PREP O O O O O O O O O O O 
+reviews-034320-0003_2 Paula has an amazing gift for creativity , vision and the ability to combine art to / with commercial purpose . ||| p.Theme p.Ancillary O O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-146820-0002_0 I just had the best experience at this Kal Tire location . ||| p.Locus p.Locus O O O O O O B-PREP O O O O O 
+reviews-229442-0003_1 While other may be ok waiting in line at Town Bagel we are happy with the quality and service we get at Family Bagels ||| p.Locus p.Locus O O O O O O O O B-PREP O O O O O O O O O O O O O O O 
+reviews-290238-0002_0 I think this location is no longer in business . ||| p.Characteristic p.Locus O O O O O O O B-PREP I-PREP O 
+reviews-158285-0001_2 Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new decor seems tacky ||| p.ComparisonRef p.ComparisonRef O O O O O O O O O O O O O O O O O B-PREP O O O O O O 
+reviews-188382-0002_0 I 've been a regular customer at this store since it opened , and love the fact that all of the employees are friendly locals . ||| p.Locus p.Locus O O O O O O B-PREP O O O O O O O O O O O O O O O O O O O 
+reviews-384229-0002_1 I was with verizon and I checked my service with tmobile and it was great so I thought I would try tmobile . ||| p.Org p.Ancillary O O O O O O O O O B-PREP O O O O O O O O O O O O O 
+reviews-369608-0003_1 This is by far the best run dealership in Miami . ||| p.Locus p.Locus O O O O O O O O B-PREP O O 
+reviews-354474-0002_0 The people at Gulf Coast Siding were very easy and clear to work with . ||| p.Org p.Locus O O B-PREP O O O O O O O O O O O O 
+reviews-042085-0002_0 Took 1 + hour to deliver to Chatham , hair in food , driver did n't know area . ||| p.Locus p.Locus O O O O O O B-PREP O O O O O O O O O O O O 
+reviews-128808-0002_0 A Top Quality Sandwich made to artistic standards . ||| p.Locus p.Locus O O O O O B-PREP O O O 
+reviews-118668-0004_1 The setting feels like a Sushi bar in NYC ; small , cozy , but with flair . ||| p.Locus p.Locus O O O O O O O B-PREP O O O O O O O O O O 
+reviews-107608-0002_1 I v just had my bmw z3 rear window replaced by the guys at kelvin trimmers . ||| p.Org p.Locus O O O O O O O O O O O O O B-PREP O O O 
+reviews-229442-0003_0 While other may be ok waiting in line at Town Bagel we are happy with the quality and service we get at Family Bagels ||| p.Locus p.Locus O O O O O O B-PREP O O O O O O O O O O O O O O O O O 
+reviews-216281-0004_0 Rich was here before the scheduled time . ||| p.Time p.Time O O O B-PREP O O O O 
+reviews-223040-0001_1 I love this place lots of people to talk to and school is across the street ! ||| p.Recipient p.Locus O O O O O O O O O B-PREP O O O O O O O 
+reviews-047891-0002_0 Will use again in the future . ||| p.Time p.Time O O O B-PREP O O O 
+reviews-307170-0001_1 Best Limo Limousine service in all of Dallas ||| p.QuantityItem p.Whole O O O O O O B-PREP O 
+reviews-097548-0001_0 The company gets busy but you never have to wait long because they ARE orginizied , so you are in , out , and paid well for your scrap ||| p.Possession p.Theme O O O O O O O O O O O O O O O O O O O O O O O O O O B-PREP O O 
+reviews-334928-0001_0 One of the better vegetarian sandwiches I 've had in Seattle . ||| p.Whole p.Whole O B-PREP O O O O O O O O O O 
+reviews-025516-0003_0 Recommend you call in for a look . ||| p.Explanation p.Explanation O O O O B-PREP O O O 
+reviews-118668-0004_0 The setting feels like a Sushi bar in NYC ; small , cozy , but with flair . ||| p.Manner p.ComparisonRef O O O B-PREP O O O O O O O O O O O O O O 
+reviews-107608-0002_0 I v just had my bmw z3 rear window replaced by the guys at kelvin trimmers . ||| p.Causer p.Causer O O O O O O O O O O B-PREP O O O O O O 
+reviews-354474-0002_1 The people at Gulf Coast Siding were very easy and clear to work with . ||| p.SocialRel p.Ancillary O O O O O O O O O O O O O B-PREP O 
+reviews-343813-0003_0 Travelled 40 mins after calling to see if a product was in stock . ||| p.Characteristic p.Locus O O O O O O O O O O O B-PREP I-PREP O 
+reviews-245928-0003_0 They are especially rude to women . ||| p.Beneficiary p.Locus O O O O B-PREP O O 
+reviews-042085-0002_1 Took 1 + hour to deliver to Chatham , hair in food , driver did n't know area . ||| p.Locus p.Locus O O O O O O O O O O B-PREP O O O O O O O O 
+reviews-048201-0004_0 We tried 4 different style of donuts , they were all the same when it came to quality . ||| p.Species p.Species O O O O O B-PREP O O O O O O O O O O O O O 
+reviews-252791-0001_0 no feathers in stock !!!! ||| p.Characteristic p.Locus O O B-PREP I-PREP O 
+reviews-384229-0002_0 I was with verizon and I checked my service with tmobile and it was great so I thought I would try tmobile . ||| p.Org p.Ancillary O O B-PREP O O O O O O O O O O O O O O O O O O O O 
+reviews-235190-0002_0 Believe it or not , but the channel guide has been most helpful to my family members that visit and do n't know where to start when it comes to watching satellite tv . ||| p.Beneficiary p.Locus O O O O O O O O O O O O O B-PREP O O O O O O O O O O O O O O O O O O O O 
+reviews-188382-0002_1 I 've been a regular customer at this store since it opened , and love the fact that all of the employees are friendly locals . ||| p.QuantityItem p.Whole O O O O O O O O O O O O O O O O O O O B-PREP O O O O O O 
+reviews-369608-0003_0 This is by far the best run dealership in Miami . ||| p.Path p.Path O O B-PREP I-PREP O O O O O O O 
+reviews-336285-0002_0 If you want the best for your child , do n't hesitate in visiting this wornderful school . ||| p.Beneficiary p.Beneficiary O O O O O B-PREP O O O O O O O O O O O O 
+reviews-251755-0002_0 Susanna is the best dress maker / tailor I 've ever come across in my whole life ! ||| p.Time p.Time O O O O O O O O O O O O O B-PREP O O O O 
+reviews-335490-0005_0 Good location and off road parking made our stay very convenient . ||| p.Locus p.Locus O O O B-PREP I-PREP O O O O O O O 
+reviews-085009-0003_1 The work was completed within one week , and everything was cleaned up on completion . ||| p.Time p.Time O O O O O O O O O O O O O B-PREP O O 
+reviews-389298-0003_0 The sales staff and the installation staff were all easy to get along with . ||| p.Causer p.Ancillary O O O O O O O O O O O O O B-PREP O 
+reviews-054269-0002_2 Compact 's Corona dryers remove at least twice as much water as the previous dryers , allowing a production increase of over 10 % and a significant energy saving . ||| p.Quantity p.Quantity O O O O O O O O O O O O O O O O O O O O O B-PREP O O O O O O O O 
+reviews-165032-0002_0 We went through six photographers to find the right photographers that would represent our firm in the light we wished to and Michael and his team made that happen . ||| p.Manner p.Manner O O O O O O O O O O O O O O O B-PREP O O O O O O O O O O O O O O 
+reviews-118679-0002_0 Unfortunately , I 've given it a couple of tries at different times and decided to stop going . ||| p.QuantityItem p.QuantityItem O O O O O O O O B-PREP O O O O O O O O O O 
+reviews-210875-0001_0 Bulwark regarding service by Eric ||| p.Causer p.Causer O O O B-PREP O 
+reviews-229100-0007_0 Go to ATLANTIC WIRELESS !! ||| p.Locus p.Locus O B-PREP O O O 
+reviews-329807-0002_0 I have been using Steele Electric for years . ||| p.Duration p.Duration O O O O O O B-PREP O O 
+reviews-012047-0003_0 These guys know what they 're doing and helped me in all phases of our project . ||| p.Time p.Time O O O O O O O O O O B-PREP O O O O O O 
+reviews-325741-0002_0 It was late in the day and I was worried I would get charged an arm and a leg and have to wait forever . ||| p.Time p.Time O O O B-PREP O O O O O O O O O O O O O O O O O O O O O 
+reviews-200566-0002_0 ALL OF THE TEACHERS THERE ARE SO MEAN THEY GET MAD AT YOU FOR NOTHING !!!!!!!!!!!!!!!!!!! ||| p.QuantityItem p.Whole O B-PREP O O O O O O O O O O O O O O 
+reviews-122514-0002_1 Rooms were clean , plenty of things to do near hotel , and safe part of town . ||| p.Locus p.Locus O O O O O O O O O B-PREP O O O O O O O O 
+reviews-217747-0004_1 You company and services will be recommended by us to everyone . " ||| p.Recipient p.Locus O O O O O O O O O B-PREP O O O 
+reviews-131965-0002_0 We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly , you will be our first call if anything happens again and we will refer you to other people with computer issues . ||| p.Org p.Locus O B-PREP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+reviews-225861-0002_1 My daughter and I stayed here again from the 7th to the 14th of December . ||| p.EndTime p.EndTime O O O O O O O O O O B-PREP O O O O O 
+reviews-130647-0003_1 The workers sped up and down the street with no mind to the small children playing . ||| p.Path p.Path O O O O O B-PREP O O O O O O O O O O O 
+reviews-037179-0002_0 this kebab shop is one of the best around the meat is good and fresh and the chilly sauce is the best , keep them lovely kebabs coming and a happy new year to all the staff ||| p.Whole p.Whole O O O O O B-PREP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+reviews-295935-0001_0 Very Informative website with a lot of good work ||| p.Characteristic p.Characteristic O O O B-PREP O O O O O 
+reviews-186235-0001_0 wow , the representative went way above and beyond in helping me with my account set up . ||| p.Theme p.Theme O O O O O O O O O O O O B-PREP O O O O O 
+reviews-392826-0002_0 Hit or miss on the service . ||| p.Theme p.Theme O O O B-PREP O O O 
+reviews-264993-0001_0 An Hour Of Prego Bliss ! ||| p.QuantityItem p.QuantityItem O O B-PREP O O O 
+reviews-048644-0001_0 Do n't judge a book by its cover ||| p.Instrument p.Instrument O O O O O B-PREP O O 
+reviews-225861-0004_2 Okay our room was at times noisy but we were in a mega busy city at an extremely busy time of year . ||| p.Time p.Time O O O O O O O O O O O O O O O B-PREP O O O O O O O 
+reviews-001325-0004_0 Hooray for Craggy . ||| p.Beneficiary p.Beneficiary O B-PREP O O 
+reviews-012047-0003_1 These guys know what they 're doing and helped me in all phases of our project . ||| p.Whole p.Whole O O O O O O O O O O O O O B-PREP O O O 
+reviews-217747-0004_0 You company and services will be recommended by us to everyone . " ||| p.Originator p.Causer O O O O O O O B-PREP O O O O O 
+reviews-122514-0002_0 Rooms were clean , plenty of things to do near hotel , and safe part of town . ||| p.QuantityItem p.QuantityItem O O O O O B-PREP O O O O O O O O O O O O 
+reviews-200566-0002_1 ALL OF THE TEACHERS THERE ARE SO MEAN THEY GET MAD AT YOU FOR NOTHING !!!!!!!!!!!!!!!!!!! ||| p.Stimulus p.Path O O O O O O O O O O O B-PREP O O O O 
+reviews-118679-0002_1 Unfortunately , I 've given it a couple of tries at different times and decided to stop going . ||| p.Time p.Time O O O O O O O O O O B-PREP O O O O O O O O 
+reviews-207348-0001_0 Feels like you are in Brooklyn , but people watching is entertaining . ||| p.Locus p.Locus O O O O B-PREP O O O O O O O O 
+reviews-086914-0002_0 I refer to VNHH often and love you guys . ||| p.Recipient p.Locus O O B-PREP O O O O O O O 
+reviews-206303-0002_0 A real pleasure training with Natasha . ||| p.SocialRel p.Ancillary O O O O B-PREP O O 
+reviews-085009-0003_0 The work was completed within one week , and everything was cleaned up on completion . ||| p.Duration p.Duration O O O O B-PREP O O O O O O O O O O O 
+reviews-178726-0004_0 Finally a convenient place close to home . ||| p.Locus p.Locus O O O O O B-PREP O O 
+reviews-295935-0001_1 Very Informative website with a lot of good work ||| p.QuantityItem p.QuantityItem O O O O O O B-PREP O O 
+reviews-122564-0004_0 the attitude of some staff is terrible , did not solve anything only say i can do nothing . ||| p.Gestalt p.Gestalt O O B-PREP O O O O O O O O O O O O O O O O 
+reviews-130647-0003_0 The workers sped up and down the street with no mind to the small children playing . ||| p.Path p.Path O O O B-PREP O O O O O O O O O O O O O 
+reviews-037179-0002_1 this kebab shop is one of the best around the meat is good and fresh and the chilly sauce is the best , keep them lovely kebabs coming and a happy new year to all the staff ||| p.Recipient p.Locus O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-229100-0003_0 Has another store in the st. charles mall . ||| p.Locus p.Locus O O O B-PREP O O O O O 
+reviews-131965-0002_1 We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly , you will be our first call if anything happens again and we will refer you to other people with computer issues . ||| p.Stimulus p.Theme O O O O O O O B-PREP O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+reviews-225861-0002_0 My daughter and I stayed here again from the 7th to the 14th of December . ||| p.StartTime p.StartTime O O O O O O O B-PREP O O O O O O O O 
+reviews-268952-0004_1 I would recommend Bayside Chiropractic to anyone who is in need of a regular adjustment or is suffering from a chronic condition . ||| p.Characteristic p.Locus O O O O O O O O O B-PREP I-PREP I-PREP O O O O O O O O O O O 
+reviews-212369-0002_0 We got upgraded to a corner suite ! ||| p.Locus p.Locus O O O B-PREP O O O O 
+reviews-038523-0002_0 Attentive to the needs of customer . ||| p.Stimulus p.Locus O B-PREP O O O O O 
+reviews-042530-0002_2 I live in the neighborhood and this place is one of my favorites for a tasty , quick and inexpensive meal . ||| p.Explanation p.Explanation O O O O O O O O O O O O O B-PREP O O O O O O O O 
+reviews-107608-0003_1 The team who work there are helpfull , friendly and extremely knowledgeable and will help you as much as they can with thier years of hands on practice . ||| p.QuantityItem p.QuantityItem O O O O O O O O O O O O O O O O O O O O O O O O B-PREP O O O O 
+reviews-216281-0001_0 On time , Clean and very nice ||| p.Characteristic p.Locus B-PREP I-PREP O O O O O 
+reviews-270889-0003_0 We have tried many different computer people until now - we will stick with Qualitech Computers !!! ||| p.EndTime p.EndTime O O O O O O O B-PREP O O O O O O O O O 
+reviews-128808-0003_0 The best darlington has to offer in contemporary sandwicheering . ||| p.Theme p.Theme O O O O O O B-PREP O O O 
+reviews-042530-0004_0 Fast and friendly service , they know my order when I walk in the door ! ||| p.Path p.Locus O O O O O O O O O O O O B-PREP O O O 
+reviews-042085-0003_0 Noticed a few of these Cookie cutter places opening in Summit and New Providence . ||| p.QuantityItem p.QuantityItem O O O B-PREP O O O O O O O O O O O 
+reviews-396046-0001_0 Worst experience ever like a sardine can and the bartender downstairs is the rudest person I have ever met . ||| p.ComparisonRef p.ComparisonRef O O O B-PREP O O O O O O O O O O O O O O O O 
+reviews-332068-0001_2 Would not recommend I Was in a fair amount of pain for several weeks . ||| p.Duration p.Duration O O O O O O O O O O O B-PREP O O O 
+reviews-011806-0002_1 Sheer contrast to getting it done at karol bagh which is done under the wooden plank ||| p.Locus p.Locus O O O O O O O O O O O O B-PREP O O O 
+reviews-034995-0002_0 Also more often than not you end up with a healthy dose of nasty rude attitude from the employees ! ||| p.Circumstance p.Circumstance O O O O O O O O B-PREP O O O O O O O O O O O 
+reviews-290238-0003_0 If you check RecWarehouse.com , they do n't list this as a location . ||| p.Identity p.Identity O O O O O O O O O O B-PREP O O O 
+reviews-035993-0002_0 I had no problem with my delivery . ||| p.Theme p.Theme O O O O B-PREP O O O 
+reviews-038523-0002_1 Attentive to the needs of customer . ||| p.Gestalt p.Gestalt O O O O B-PREP O O 
+reviews-263909-0004_0 Had it fixed within a few days ( had to order a part ) . ||| p.Duration p.Duration O O O B-PREP O O O O O O O O O O O 
+reviews-257735-0001_0 Do n't waste your money on the jukebox ||| p.Possession p.Theme O O O O O B-PREP O O 
+reviews-216281-0005_0 He was very clean , very nice to work with and gave a very reasonable price . ||| p.SocialRel p.Ancillary O O O O O O O O O B-PREP O O O O O O O 
+reviews-104703-0003_0 Darla is amazing , I would recoment her to anyone . ||| p.Recipient p.Locus O O O O O O O O B-PREP O O 
+reviews-268952-0004_0 I would recommend Bayside Chiropractic to anyone who is in need of a regular adjustment or is suffering from a chronic condition . ||| p.Recipient p.Locus O O O O O B-PREP O O O O O O O O O O O O O O O O O 
+reviews-229442-0002_0 there might be bigger and more well known bagel places in the area but Family Bagels are nice people , small shop and incredibly friendly . ||| p.Locus p.Locus O O O O O O O O O O B-PREP O O O O O O O O O O O O O O O 
+reviews-034995-0002_1 Also more often than not you end up with a healthy dose of nasty rude attitude from the employees ! ||| p.QuantityItem p.QuantityItem O O O O O O O O O O O O B-PREP O O O O O O O 
+reviews-011806-0002_0 Sheer contrast to getting it done at karol bagh which is done under the wooden plank ||| p.Locus p.Locus O O O O O O B-PREP O O O O O O O O O 
+reviews-336285-0003_0 This is the very best in the Gables . ||| p.Locus p.Locus O O O O O B-PREP O O O 
+reviews-169610-0002_2 Mrs. Tolchin provided us with excellent service and came with a great deal of knowledge and professionalism ! ||| p.QuantityItem p.QuantityItem O O O O O O O O O O O O O B-PREP O O O O 
+reviews-369608-0002_0 I worked with Sam Mones who took great care of me . ||| p.SocialRel p.Ancillary O O B-PREP O O O O O O O O O 
+reviews-384229-0003_0 It turned out being very good quality tmobile service and I was happy with the new tmobile phone . ||| p.Stimulus p.Theme O O O O O O O O O O O O O B-PREP O O O O O 
+reviews-042085-0003_1 Noticed a few of these Cookie cutter places opening in Summit and New Providence . ||| p.Locus p.Locus O O O O O O O O O B-PREP O O O O O 
+reviews-107608-0003_0 The team who work there are helpfull , friendly and extremely knowledgeable and will help you as much as they can with thier years of hands on practice . ||| p.Circumstance p.Circumstance O O O O O O O O O O O O O O O O O O O O O B-PREP O O O O O O O 
+reviews-153921-0002_0 We order take out from here all the time and we are never disappointed . ||| p.Originator p.Locus O O O O B-PREP O O O O O O O O O O 
+reviews-211933-0001_1 Deep tissue massage helps with pain in neck and shoulders ||| p.Locus p.Locus O O O O O O B-PREP O O O 
+reviews-005760-0004_2 Expensive for the level of food and the quality of service . ||| p.Gestalt p.Gestalt O O O O O O O O O B-PREP O O 
+reviews-025894-0005_0 There must be a better mexican place in Rockland . ||| p.Locus p.Locus O O O O O O O B-PREP O O 
+reviews-192399-0003_0 Listened to my problem and took care of it . ||| p.Stimulus p.Locus O B-PREP O O O O O O O O 
+reviews-363428-0004_0 Nothing too much trouble for Ian , thanks for a great stay . ||| p.Experiencer p.Beneficiary O O O O B-PREP O O O O O O O O 
+reviews-325741-0003_0 They picked my car up in Yarmouth and towed to Bath for a great price . ||| p.Locus p.Locus O O O O O B-PREP O O O O O O O O O O 
+reviews-060396-0002_0 The restaurant is the most beautiful thai restaurant in Geelong ... just love it ||| p.Locus p.Locus O O O O O O O O B-PREP O O O O O 
+reviews-374344-0004_0 If you enjoy amazing things , you must go to World 's Finest Donair . ||| p.Locus p.Locus O O O O O O O O O B-PREP O O O O O 
+reviews-227515-0003_1 I have had several dentists in my life , but Dr. Deters is by far my favorite . ||| p.Path p.Path O O O O O O O O O O O O O B-PREP I-PREP O O O 
+reviews-329807-0003_0 They have always done a great job at a reasonable price . ||| p.Cost p.Locus O O O O O O O B-PREP O O O O 
+reviews-012047-0002_0 They specialize in financial institutions , medical , and retail projects . ||| p.Theme p.Theme O O B-PREP O O O O O O O O O 
+reviews-039173-0001_0 The waiting staff is really friendly , it s like every one knows each other , the manager is really sweet and the food .. well no complaints from me . ||| p.Originator p.Locus O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PREP O O 
+reviews-046500-0001_0 Men s and Boys Barbers , on the number 9 Bus route . ||| p.Locus p.Locus O O O O O O B-PREP O O O O O O 
+reviews-163250-0003_0 It was all sorted with no hassle at all and I 'm really grateful - they were fab . ||| p.Manner p.Manner O O O O B-PREP O O O O O O O O O O O O O O 
+reviews-085009-0002_1 MFJ Inc transformed our run down back yard into a place of beauty . ||| p.Characteristic p.Identity O O O O O O O O O O O B-PREP O O 
+reviews-389298-0002_0 The door is easy to use and it keeps the cold out during the winter . ||| p.Time p.Time O O O O O O O O O O O O B-PREP O O O 
+reviews-325330-0002_1 Overpriced and the doctor acted arrogant and rushed at a time when there was very few clients in the facility . ||| p.Locus p.Locus O O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-059655-0003_0 i was very pleased with the service . ||| p.Stimulus p.Theme O O O O B-PREP O O O 
+reviews-314880-0001_2 I am in love with the giant plate of nachos ! ||| p.QuantityItem p.PartPortion O O O O O O O O B-PREP O O 
+reviews-200668-0001_0 kudos to Allentown Post Office staff ||| p.Recipient p.Locus O B-PREP O O O O 
+reviews-138249-0002_0 I have use them four times for fixing items from pushing out a dent in a bumper to fixing the fender on my beloved Miata . ||| p.Path p.Path O O O O O O O O O O O B-PREP O O O O O O O O O O O O O O 
+reviews-225861-0003_1 yet again it was a great stay from begiinning to end . ||| p.EndTime p.EndTime O O O O O O O O O B-PREP O O 
+reviews-025894-0003_2 One time we even left after sitting at the table for 20 minutes and not being greeted with a drink order . ||| p.Means p.Means O O O O O O O O O O O O O O O O O B-PREP O O O O 
+reviews-314880-0003_1 I get that careless teenager kind of treatment from some of their staff ... perhaps they should hire more serious adults to help serve / cook . ||| p.Locus p.Locus O O O O O O O O B-PREP O O O O O O O O O O O O O O O O O O 
+reviews-171255-0002_1 They treat there employees with respect and concern and expect that they will extend the same politeness to there customers . ||| p.Recipient p.Locus O O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-214912-0001_0 I have used Bright Futures for the last 7 years . ||| p.Duration p.Duration O O O O O B-PREP O O O O O 
+reviews-085009-0002_0 MFJ Inc transformed our run down back yard into a place of beauty . ||| p.Locus p.Locus O O O O O O O O B-PREP O O O O O 
+reviews-325330-0002_0 Overpriced and the doctor acted arrogant and rushed at a time when there was very few clients in the facility . ||| p.Time p.Time O O O O O O O O B-PREP O O O O O O O O O O O O 
+reviews-210153-0002_0 There is no lower rating for Noonan 's Liquor , owners and employees . ||| p.Theme p.Theme O O O O O B-PREP O O O O O O O O 
+reviews-357217-0005_0 Even the least discriminating diner would know not to eat at Sprecher 's . ||| p.Locus p.Locus O O O O O O O O O O B-PREP O O O 
+reviews-363428-0004_1 Nothing too much trouble for Ian , thanks for a great stay . ||| p.Explanation p.Explanation O O O O O O O O B-PREP O O O O 
+reviews-325741-0003_1 They picked my car up in Yarmouth and towed to Bath for a great price . ||| p.Locus p.Locus O O O O O O O O O B-PREP O O O O O O 
+reviews-227515-0003_0 I have had several dentists in my life , but Dr. Deters is by far my favorite . ||| p.Time p.Time O O O O O B-PREP O O O O O O O O O O O O 
+reviews-211933-0001_0 Deep tissue massage helps with pain in neck and shoulders ||| p.Theme p.Theme O O O O B-PREP O O O O O 
+reviews-034858-0001_0 Thank you for fixing the leak on my bathroom ! ||| p.Locus p.Locus O O O O O O B-PREP O O O 
+reviews-225861-0003_0 yet again it was a great stay from begiinning to end . ||| p.StartTime p.StartTime O O O O O O O B-PREP O O O O 
+reviews-314880-0003_0 I get that careless teenager kind of treatment from some of their staff ... perhaps they should hire more serious adults to help serve / cook . ||| p.Species p.Species O O O O O O B-PREP O O O O O O O O O O O O O O O O O O O O 
+reviews-138249-0002_1 I have use them four times for fixing items from pushing out a dent in a bumper to fixing the fender on my beloved Miata . ||| p.Locus p.Locus O O O O O O O O O O O O O O B-PREP O O O O O O O O O O O 
+reviews-171255-0002_0 They treat there employees with respect and concern and expect that they will extend the same politeness to there customers . ||| p.Manner p.Manner O O O O B-PREP O O O O O O O O O O O O O O O O 
+reviews-353891-0004_0 Also very friendly and the stylists are not in the " been there / done that " mood ! ||| p.Characteristic p.Locus O O O O O O O O B-PREP O O O O O O O O O O 
+reviews-087368-0002_0 My pharmacy order is always correct and promptly delivered but the pharmacy staff are always very short with me and do n't seem to like answering questions . ||| p.Beneficiary p.Theme O O O O O O O O O O O O O O O O O B-PREP O O O O O O O O O O 
+reviews-081116-0001_0 Best fried shrimp in the state ! ||| p.Locus p.Locus O O O B-PREP O O O 
+reviews-158285-0001_1 Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new decor seems tacky ||| p.ComparisonRef p.ComparisonRef O O O O O O O O O O O O O O O B-PREP O O O O O O O O 
+reviews-022273-0002_0 But the servers do n't pay attention to you whether it 's busy or not . ||| p.Stimulus p.Locus O O O O O O O B-PREP O O O O O O O O 
+reviews-118668-0004_2 The setting feels like a Sushi bar in NYC ; small , cozy , but with flair . ||| p.Characteristic p.Characteristic O O O O O O O O O O O O O O O B-PREP O O 
+reviews-028996-0002_1 I 'm pleased that someone referred me to them for my commercial business . ||| p.Explanation p.Explanation O O O O O O O O O B-PREP O O O O 
+reviews-251755-0004_0 She is always so busy , too , which is a good indication of her talent . ||| p.Theme p.Theme O O O O O O O O O O O O O B-PREP O O O 
+reviews-229442-0003_2 While other may be ok waiting in line at Town Bagel we are happy with the quality and service we get at Family Bagels ||| p.Stimulus p.Theme O O O O O O O O O O O O O O B-PREP O O O O O O O O O 
+reviews-290238-0004_1 You 'll have to drive 10 miles down 75 to Allen . ||| p.Locus p.Locus O O O O O O O O O B-PREP O O 
+reviews-257735-0002_1 The bartender is a douchebag and he has a little console behind the bar where he can delete songs he does n't like , and you end up paying for it . ||| p.Possession p.Theme O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PREP O O 
+reviews-307170-0003_0 I use their limo services for all of my airport car services and airport transportation needs ||| p.Explanation p.Explanation O O O O O B-PREP O O O O O O O O O O 
+reviews-035993-0001_1 They have fresh flowers , lasted a long while in the vase , and the two ladies at the shop know the business well . ||| p.Org p.Locus O O O O O O O O O O O O O O O O O B-PREP O O O O O O O 
+reviews-145645-0003_0 The staff , material provided , infra structure , environment & low fees totally above the satisfactory mark ||| p.ComparisonRef p.Locus O O O O O O O O O O O O O O B-PREP O O O 
+reviews-011806-0001_0 absolutely fantastic experience getting my iphone upgraded at Zion ... ||| p.Locus p.Locus O O O O O O O B-PREP O O 
+reviews-028996-0002_0 I 'm pleased that someone referred me to them for my commercial business . ||| p.Locus p.Locus O O O O O O O B-PREP O O O O O O 
+reviews-252791-0003_0 I had to dig in a bag to find one nice feather , what a joke ! ||| p.Locus p.Locus O O O O B-PREP O O O O O O O O O O O O 
+reviews-158285-0001_0 Restaurant on top was renovated , food was decent , price was way to high for Duluth for quality , new decor seems tacky ||| p.Locus p.Locus O B-PREP O O O O O O O O O O O O O O O O O O O O O O 
+reviews-118668-0006_0 Best in HR so far ! ||| p.Whole p.Locus O B-PREP O O O O 
+reviews-277703-0001_0 The best Supermarket in Bay Ridge have everything what a customer needs . ||| p.Locus p.Locus O O O B-PREP O O O O O O O O O 
+reviews-216281-0002_1 I called over the weekend due to clogged kitchen sink . ||| p.Explanation p.Explanation O O O O O B-PREP I-PREP O O O O 
+reviews-223040-0001_2 I love this place lots of people to talk to and school is across the street ! ||| p.Locus p.Path O O O O O O O O O O O O O B-PREP O O O 
+reviews-035993-0001_0 They have fresh flowers , lasted a long while in the vase , and the two ladies at the shop know the business well . ||| p.Locus p.Locus O O O O O O O O O B-PREP O O O O O O O O O O O O O O O 
+reviews-034320-0003_0 Paula has an amazing gift for creativity , vision and the ability to combine art to / with commercial purpose . ||| p.Theme p.Theme O O O O O B-PREP O O O O O O O O O O O O O O O 
+reviews-229442-0003_3 While other may be ok waiting in line at Town Bagel we are happy with the quality and service we get at Family Bagels ||| p.Locus p.Locus O O O O O O O O O O O O O O O O O O O O O B-PREP O O 
+reviews-290238-0004_0 You 'll have to drive 10 miles down 75 to Allen . ||| p.Path p.Path O O O O O O O B-PREP O O O O 
+reviews-307170-0003_1 I use their limo services for all of my airport car services and airport transportation needs ||| p.QuantityItem p.Whole O O O O O O O B-PREP O O O O O O O O 
+reviews-257735-0002_0 The bartender is a douchebag and he has a little console behind the bar where he can delete songs he does n't like , and you end up paying for it . ||| p.Locus p.Locus O O O O O O O O O O O B-PREP O O O O O O O O O O O O O O O O O O O O 
+reviews-128808-0004_0 Drum and bass as standard . ||| p.ComparisonRef p.ComparisonRef O O O B-PREP O O 
+reviews-254908-0003_0 After they showed up there was a little trouble to get my car unlocked , it took quite a bit of time but the job was well done . ||| p.QuantityItem p.QuantityItem O O O O O O O O O O O O O O O O O O O O B-PREP O O O O O O O O 
+reviews-130647-0003_2 The workers sped up and down the street with no mind to the small children playing . ||| p.Manner p.Manner O O O O O O O O B-PREP O O O O O O O O 
+reviews-217747-0002_0 " Thank you so much for the superior job well done . ||| p.Explanation p.Explanation O O O O O B-PREP O O O O O O 
+reviews-048644-0003_0 This could n't be farther from the truth . ||| p.Locus p.Locus O O O O O B-PREP O O O 
+reviews-227515-0004_0 I never wait in the waiting room more than two minutes and the cleanings are quick and painless . ||| p.Locus p.Locus O O O B-PREP O O O O O O O O O O O O O O O 
+reviews-131965-0002_3 We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly , you will be our first call if anything happens again and we will refer you to other people with computer issues . ||| p.Characteristic p.Characteristic O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-225861-0002_2 My daughter and I stayed here again from the 7th to the 14th of December . ||| p.Time p.Whole O O O O O O O O O O O O O B-PREP O O 
+reviews-200668-0002_0 The staff in Allentown are friendly , helpful and a delight to know .. ||| p.Locus p.Locus O O B-PREP O O O O O O O O O O O 
+reviews-014764-0003_0 Many thanks from myself and all of our wedding guests ! ||| p.Originator p.Locus O O B-PREP O O O O O O O O 
+reviews-206303-0004_0 She really listens to what it is you would like to achieve , and I am very happy with my results . ||| p.Stimulus p.Locus O O O B-PREP O O O O O O O O O O O O O O O O O O 
+reviews-294978-0003_1 Nothing wrong with it , just better options at this price point . ||| p.Cost p.Locus O O O O O O O O B-PREP O O O O 
+reviews-138249-0001_0 These guys do great work at VERY reasonable prices . ||| p.Cost p.Locus O O O O O B-PREP O O O O 
+reviews-275595-0002_0 this dentist want to pull the tooth out always .. always wants to do the cheapest for his benefit .. not unless he knows you . ||| p.Explanation p.Explanation O O O O O O O O O O O O O O O O B-PREP O O O O O O O O O 
+reviews-211933-0002_1 Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area . ||| p.Locus p.Locus O O O O O O O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-060396-0001_0 The best Thai food I 've ever had in Australia , very fresh and so much favor of authentic Thai . ||| p.Locus p.Locus O O O O O O O O B-PREP O O O O O O O O O O O O 
+reviews-225861-0004_0 Okay our room was at times noisy but we were in a mega busy city at an extremely busy time of year . ||| p.Time p.Time O O O O B-PREP O O O O O O O O O O O O O O O O O O 
+reviews-030430-0002_0 I think the women at this salon know that their business is based primarily from referrals . :) ||| p.Org p.Locus O O O O B-PREP O O O O O O O O O O O O O 
+reviews-229100-0005_0 Do nt go to the one by pepco , I got confused !!! ||| p.Locus p.Locus O O O B-PREP O O O O O O O O O 
+reviews-353891-0003_0 My nails looked great for the better part of 2 weeks ! ||| p.Duration p.Duration O O O O B-PREP O O O O O O O 
+reviews-299169-0003_0 When I tried to return it they refused , so I had to leave without a refund and still hungry . ||| p.Possession p.Ancillary O O O O O O O O O O O O O O B-PREP O O O O O O 
+reviews-122514-0002_2 Rooms were clean , plenty of things to do near hotel , and safe part of town . ||| p.Whole p.Whole O O O O O O O O O O O O O O O B-PREP O O 
+reviews-206303-0004_1 She really listens to what it is you would like to achieve , and I am very happy with my results . ||| p.Stimulus p.Theme O O O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-256677-0004_0 I know now where to get all of my wine and beer . ||| p.QuantityItem p.Whole O O O O O O O B-PREP O O O O O 
+reviews-294978-0003_0 Nothing wrong with it , just better options at this price point . ||| p.Theme p.Theme O O B-PREP O O O O O O O O O O 
+reviews-083563-0001_0 We would like to thank our emergency plumbers who visted our shop in Morningside Road today . ||| p.Locus p.Locus O O O O O O O O O O O O B-PREP O O O O 
+reviews-299524-0001_1 Quality has fallen over the years , but still the best go - to burger place on the East Bay . ||| p.Locus p.Locus O O O O O O O O O O O O O O O O B-PREP O O O O 
+reviews-014764-0003_1 Many thanks from myself and all of our wedding guests ! ||| p.QuantityItem p.Whole O O O O O O B-PREP O O O O 
+reviews-103519-0002_1 okay , I do nt have a review , but why in the hell would you name your business something that has the initials KKK .... is there something behind the scenes at this place ? ||| p.Locus p.Locus O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-131965-0002_2 We at R&L Plumbing Services are pleased with your professionalism and the extra mile you went to get out computers working correctly , you will be our first call if anything happens again and we will refer you to other people with computer issues . ||| p.Recipient p.Locus O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PREP O O O O O O 
+reviews-087368-0001_0 Walgreens on University ||| p.Locus p.Locus O B-PREP O 
+reviews-025894-0002_0 I have eaten here several times and every time the service is slower than slow . ||| p.ComparisonRef p.ComparisonRef O O O O O O O O O O O O O B-PREP O O 
+reviews-130647-0003_3 The workers sped up and down the street with no mind to the small children playing . ||| p.Theme p.Locus O O O O O O O O O O O B-PREP O O O O O 
+reviews-325741-0004_0 Would do business with them again . ||| p.Causer p.Ancillary O O O B-PREP O O O 
+reviews-314024-0002_0 Great meats that are already cooked , easy to take home for dinner . ||| p.Explanation p.Explanation O O O O O O O O O O O B-PREP O O 
+reviews-059685-0001_0 Fast and great service on pool covers ||| p.Theme p.Theme O O O O B-PREP O O 
+reviews-200566-0002_2 ALL OF THE TEACHERS THERE ARE SO MEAN THEY GET MAD AT YOU FOR NOTHING !!!!!!!!!!!!!!!!!!! ||| p.Explanation p.Explanation O O O O O O O O O O O O O B-PREP O O 
+reviews-225861-0004_1 Okay our room was at times noisy but we were in a mega busy city at an extremely busy time of year . ||| p.Locus p.Locus O O O O O O O O O O B-PREP O O O O O O O O O O O O 
+reviews-289763-0001_0 Awesome service with a smile :) ||| p.Characteristic p.Characteristic O O B-PREP O O O 
+reviews-229100-0005_1 Do nt go to the one by pepco , I got confused !!! ||| p.Locus p.Locus O O O O O O B-PREP O O O O O O 
+reviews-346074-0001_0 Did a great job of removing my tree in Conyers . ||| p.Locus p.Locus O O O O O O O O B-PREP O O 
+reviews-054269-0002_0 Compact 's Corona dryers remove at least twice as much water as the previous dryers , allowing a production increase of over 10 % and a significant energy saving . ||| p.ComparisonRef p.ComparisonRef O O O O O O O O O O O B-PREP O O O O O O O O O O O O O O O O O O 
+reviews-193257-0002_0 We have utilized Mr. Pozza and his firm twice now in our family and both times have been very pleased . ||| p.Org p.Locus O O O O O O O O O O B-PREP O O O O O O O O O O 
+reviews-060396-0001_1 The best Thai food I 've ever had in Australia , very fresh and so much favor of authentic Thai . ||| p.Gestalt p.Gestalt O O O O O O O O O O O O O O O O O B-PREP O O O 
+reviews-392826-0004_0 Pretty spendy for really not great quality ||| p.ComparisonRef p.ComparisonRef O O B-PREP O O O O 
+reviews-171877-0002_0 they are the best orthodontics in the world . ||| p.Locus p.Locus O O O O O B-PREP O O O 
+reviews-045972-0002_0 I just wanted to try your clinic because I was not totally happy with my current therapist I regularly see . ||| p.Stimulus p.Theme O O O O O O O O O O O O O B-PREP O O O O O O O 
+reviews-058009-0001_0 It taste better than In and Out .... ||| p.ComparisonRef p.ComparisonRef O O O B-PREP O O O O 
+reviews-211933-0002_0 Seth provides deep tissue massage which has significantly reduced the pain in my neck and shoulders and added flexibility and movement back to the area . ||| p.Locus p.Locus O O O O O O O O O O O B-PREP O O O O O O O O O O O O O O 
